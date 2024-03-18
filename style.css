@@ -1,0 +1,14 @@
+*
+{
+    background-color: black;
+}
+.clock
+{
+    font-size: 100px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bgdiv
+{
+min-height: 100vh;    
+}
